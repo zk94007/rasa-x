@@ -30,7 +30,7 @@ colorhash==1.0.2
 ConfigArgParse==0.15.1
 coverage==4.5.4
 coveralls==1.8.2
-cryptography==2.8
+cryptography==3.2
 cycler==0.10.0
 decorator==4.4.1
 dill==0.3.1.1
