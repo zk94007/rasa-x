@@ -152,7 +152,7 @@ python-socketio==4.3.1
 python-telegram-bot==11.1.0
 pytz==2019.3
 pyupgrade==1.25.1
-PyYAML==5.1.2
+PyYAML==5.4
 questionary==1.4.0
 rasa==1.4.5
 rasa-sdk==1.4.0
