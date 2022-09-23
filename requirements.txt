@@ -124,7 +124,7 @@ pkginfo==1.5.0.1
 pluggy==0.13.0
 promise==2.2.1
 prompt-toolkit==2.0.10
-protobuf==3.10.0
+protobuf==3.18.3
 py==1.8.0
 pyasn1==0.4.8
 pyasn1-modules==0.2.7
